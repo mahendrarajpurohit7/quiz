@@ -1,0 +1,23 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+#after_submit{
+    visibility: hidden;
+}
+#quiz{
+    margin-left: 10px;
+    background: mediumpurple;
+    padding: 10px 20px 10px 20px;
+    width: 400px;
+    border-radius: 20px;
+    float: left;
+}
+input{
+    margin-bottom: 20PX;
+
+}
+#mahi1
+{
+    color: gold;
+    margin: 0ex;
+}
